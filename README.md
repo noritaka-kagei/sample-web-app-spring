@@ -1,2 +1,4 @@
-# sample-web-app-spring
-sample Web application for connecting to DB implemented by Spring Boot(Java)
+# Sample Web Application
+This application is implemented by Spring Boot(Java) and has the following functions.
+* connecting to DataBase
+
